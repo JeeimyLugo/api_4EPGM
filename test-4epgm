@@ -11,3 +11,8 @@ $iphone12=[
 "color"=>"rojo",
 "capacidad"=>"60GB"
 ];
+$iphones=[
+$iphone11,
+$iphone12
+];
+echo Json_encode($iphones);
