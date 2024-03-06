@@ -6,3 +6,8 @@ $iphone11=[
 "color"=>"morado",
 "capacidad"=>"120GB"
 ];
+$iphone12=[
+"costo"=>"10000 pesos",
+"color"=>"rojo",
+"capacidad"=>"60GB"
+];
