@@ -3,18 +3,25 @@
 //PRIMER IPHONE
 $iphone1=[
 "modelo"=>"iphone11",
-"sensores"=>"face id",
-"camara"=>"zoom digital hasta x5",
-"grabacion de video"=>"en 4k a 24,25,30 o 60 f/s",
-"chip"=>"chip A13 Bionic",
+"sensores"=>"face_id",
+"camara"=>"zoom_digital_hasta_x5",
+"grabacion_de_video"=>"en_4k_a_24,25,30_o_60_f/s",
+"chip"=>"chip_A13_Bionic",
 "peso"=>"194g",
-"costo"=>"7000 pesos",
+"costo"=>"7000_pesos",
 "color"=>"morado",
 "capacidad"=>"120GB",
-"geolocalizacion"=>"gps/gnss integrado"
+"geolocalizacion"=>"gps/gnss_integrado"
 ];
 $iphone2=[
-"costo"=>"10000 pesos",
+"costo"=>"10000_pesos",
+"modelo"=>"iphone12",
+"peso"=>"162g",
+"pantalla"=>"super_retina_XDR",
+"chip"=>"A14_Bionic",
+"camara"=>"gama_cromatica_amplia_para_fotos_y_live_photos",
+"grabacion de video"=>"HRD_con_dolby_vision_hasta_4k_a_30_f/s",
+"face_id"=>"reconocimiento_facial"
 "color"=>"rojo",
 "capacidad"=>"60GB"
 ];
