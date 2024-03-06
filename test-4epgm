@@ -1,18 +1,25 @@
 <?php
 //AGREGAMOS NUESTROS OBJETOS EN ESTE CASO SON IPHONES
 //PRIMER IPHONE
-$iphone11=[
+$iphone1=[
+"modelo"=>"iphone11",
+"sensores"=>"face id",
+"camara"=>"zoom digital hasta x5",
+"grabacion de video"=>"en 4k a 24,25,30 o 60 f/s",
+"chip"=>"chip A13 Bionic",
+"peso"=>"194g",
 "costo"=>"7000 pesos",
 "color"=>"morado",
-"capacidad"=>"120GB"
+"capacidad"=>"120GB",
+"geolocalizacion"=>"gps/gnss integrado"
 ];
-$iphone12=[
+$iphone2=[
 "costo"=>"10000 pesos",
 "color"=>"rojo",
 "capacidad"=>"60GB"
 ];
 $iphones=[
-$iphone11,
-$iphone12
+$iphone1,
+$iphone2
 ];
 echo Json_encode($iphones);
